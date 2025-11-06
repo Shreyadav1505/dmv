@@ -1,0 +1,29 @@
+# Python environment requirements file
+# Generated from analysis of Assignments 7 through 13
+
+# Core Data Manipulation and Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning / Preprocessing (for Assignment 9)
+scikit-learn
+
+# Web Interaction (for Assignment 8)
+requests
+
+# Geospatial Visualization (for Assignment 8)
+folium
+
+# Time Series Analysis (for Assignment 13)
+statsmodels
+
+# Specific dependencies for reading/writing file formats:
+# For pandas.read_excel and .to_excel (used in Assignment 7)
+openpyxl
+
+# Optional but good practice for Notebook execution:
+ipywidgets
