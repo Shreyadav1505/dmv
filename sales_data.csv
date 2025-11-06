@@ -1,0 +1,11 @@
+OrderID,Date,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,Region
+1001,2024-07-01,John Doe,Laptop,Electronics,1,60000,60000,North
+1002,2024-07-02,Alice Smith,Smartphone,Electronics,2,25000,50000,West
+1003,2024-07-03,Bob Lee,Office Chair,Furniture,1,8000,8000,South
+1004,2024-07-04,Ravi Patel,Notebook,Stationery,10,50,500,East
+1005,2024-07-05,Priya Kumar,Desk Lamp,Electronics,2,1200,2400,North
+1006,2024-07-06,John Doe,Smartphone,Electronics,,25000,,North
+1007,2024-07-07,Alice Smith,Office Chair,Furniture,2,8000,16000,West
+1008,2024-07-08,Bob Lee,Notebook,Stationery,5,50,250,South
+1009,2024-07-09,Ravi Patel,Laptop,Electronics,1,60000,60000,East
+1010,2024-07-10,Priya Kumar,Smartphone,Electronics,2,,,North
